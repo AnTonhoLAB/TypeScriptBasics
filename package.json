@@ -1,0 +1,22 @@
+{
+  "name": "typescriptbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnTonhoLAB/TypeScriptBasics.git"
+  },
+  "author": "George Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnTonhoLAB/TypeScriptBasics/issues"
+  },
+  "homepage": "https://github.com/AnTonhoLAB/TypeScriptBasics#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
